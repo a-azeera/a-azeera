@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a-azeera, you can call me zera
-- 👀 I’m interested in Software Testing
+- 👀 I’m interested in Software Testing and Business Analysis
 - 🌱 I’m currently learning API testing and Automation testing (by @PramodDutta - https://thetestingacademy.com/, I signed up for ATB course)
 - 💞️ I’m looking to collaborate on any project related to software testing
 - 📫 How to reach me a.azeera@gmail.com
